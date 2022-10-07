@@ -1,4 +1,4 @@
-![bg](../logoimg.jpeg)
+![bg](/logoimg.jpeg)
 
 # WebDev2022 
 
